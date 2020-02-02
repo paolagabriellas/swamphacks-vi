@@ -1,0 +1,30 @@
+{
+  "name": "swamphacks",
+  "version": "1.0.0",
+  "description": "swamphacks project w/ google cloud platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "paolagabriellas",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^2.1.2",
+    "serialport": "^8.0.7",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paolagabriellas/swamphacks-vi.git"
+  },
+  "keywords": [
+    "esp32",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/paolagabriellas/swamphacks-vi/issues"
+  },
+  "homepage": "https://github.com/paolagabriellas/swamphacks-vi#readme"
+}
